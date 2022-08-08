@@ -1,0 +1,1 @@
+docker build -t mts-tg-bot:1.0.0 .

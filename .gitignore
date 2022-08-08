@@ -1,2 +1,2 @@
-.env
-planner.db
+.env*
+*.db
